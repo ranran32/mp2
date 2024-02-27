@@ -1,0 +1,11 @@
+.navs{
+    border-bottom: 1px solid green;
+    padding-bottom: 10px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.navs:hover {
+    background:	#F8E559;
+}
+
